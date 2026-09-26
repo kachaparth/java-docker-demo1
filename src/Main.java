@@ -2,10 +2,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello from Jenkins!");
+        System.out.println("Hello from version 1.1 !");
         System.out.println("This Java application is running inside Docker.");
 
-        for (int i = 1; i <= 5; i++) {
+        for (int i = 6; i <= 10; i++) {
             System.out.println("i = " + i);
         }
     }
